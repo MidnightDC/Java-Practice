@@ -11,6 +11,7 @@ public class MyClass {
   String find = "This string is used to find the world 'find'";
   int total = last.length() + name.length();
 
+  int idk = 4;
   int age = 21;
   float seconds = 10.83f;
   char firstLTR = 'D';
